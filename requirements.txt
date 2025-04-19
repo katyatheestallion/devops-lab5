@@ -2,4 +2,5 @@ fastapi
 uvicorn
 pytest
 httpx
-pydantic-settings
+pydantic-settings  
+sqlalchemy==2.0.20
